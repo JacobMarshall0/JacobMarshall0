@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://github.com/JacobMarshall0/JacobMarshall0/blob/master/images/hellothere.png?raw=true" style="max-width:100%;" alt="Hello there!">
+    <img src="https://github.com/JacobMarshall0/JacobMarshall0/blob/main/images/hellothere.png?raw=true" style="max-width:100%;" alt="Hello there!">
 </div>
 
 ## What I'm Up To
@@ -21,5 +21,5 @@
 
 
 <div align="center">
-    <img src="https://github.com/JacobMarshall0/JacobMarshall0/blob/master/images/thanks.png?raw=true" style="max-width:100%;" alt="Thanks for checking my GitHub out!">
+    <img src="https://github.com/JacobMarshall0/JacobMarshall0/blob/masin/images/thanks.png?raw=true" style="max-width:100%;" alt="Thanks for checking my GitHub out!">
 </div>
